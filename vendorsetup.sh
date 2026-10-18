@@ -22,7 +22,7 @@ export FOX_VENDOR_BOOT_RECOVERY=1
 export OF_SCREEN_H=2400
 export OF_HIDE_NOTCH=1
 export OF_ALLOW_DISABLE_NAVBAR=1
-export OF_USE_GREEN_LED=0
+export OF_USE_GREEN_LED=1
 export OF_NO_SPLASH_CHANGE=1
 
 # Encrypted /data (FBEv2 + metadata encryption)
